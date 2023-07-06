@@ -455,5 +455,19 @@ width: 20%;
   #fm-2  {
     display: block;
   }
+  #fm-2 .fmm-2  {
+    gap: 25px;
+  }
+  #fm-2 .f-2 {
+    margin: 0px;
+  } 
+  #fm-2 .f-2 p {
+    text-align: center;
+  }
+  #fm-2 .f-2 h5  {
+    width: 190px;
+    text-align: center;
+    margin-left: -26px;
+  }
   
 }
