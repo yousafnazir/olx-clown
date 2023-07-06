@@ -450,6 +450,10 @@ width: 20%;
   #fm-2 .f-3 {
     display: block;
     width: 60%;
+    padding-left: 85px;
+  }
+  #fm-2  {
+    display: block;
   }
   
 }
